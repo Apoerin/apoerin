@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 See my Latest work at [apoerin.github.io/crepes-burgers/](apoerin.github.io/crepes-burgers/)
+- See my Latest Work - Restaurant App at [apoerin.github.io/crepes-burgers/](apoerin.github.io/crepes-burgers/)
 
 
 <h3 align="left">Languages and Tools:</h3>
